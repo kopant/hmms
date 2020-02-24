@@ -1,5 +1,9 @@
 # hmms
 
+## Datasets <br>
+1. MOX gas sensor data, UCI, retrieved from https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring#
+2. Wikipedia worked 'chicken' example for Baum Welch, retrieved from https://en.wikipedia.org/wiki/Baum–Welch_algorithm
+<br> <br>
 ## References <br>
 1. Rabiner, L. (1990).  
 A tutorial on hidden markov models and selected apllications in speech recognition.  
