@@ -11,12 +11,13 @@ and pre-processing of the MOX gas sensor data.
 
 ## Environment <br>
 Code tested with: <br>
-* Python 3.5.2 <br>
-* numpy 1.16.4 <br>
-* pandas 0.24.2 <br>
-* matplotlib 2.2.3 <br>
-* hmmlearn 0.2.3 <br>
++ Python 3.5.2 <br>
++ numpy 1.16.4 <br>
++ pandas 0.24.2 <br>
++ matplotlib 2.2.3 <br>
++ hmmlearn 0.2.3 <br>
 <br> 
+
 ## Datasets <br>
 1. MOX gas sensor data, UCI, retrieved from https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring#
 2. Wikipedia worked 'chicken' example for Baum Welch, retrieved from https://en.wikipedia.org/wiki/Baum–Welch_algorithm
