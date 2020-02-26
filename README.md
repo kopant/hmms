@@ -1,5 +1,5 @@
 # hmms
-Cheryl Roberts (kopant@gmail.com) <br> <br>
+Cheryl Roberts (kopant@gmail.com) <br>
 
 This project includes a class for fitting and decoding HMMs (currently only
 discrete emission spaces are supported; extension to GMM is tentatively planned). <br>
