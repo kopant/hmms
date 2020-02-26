@@ -1,4 +1,13 @@
 # hmms
+Cheryl Roberts (kopant@gmail.com) <br> <br>
+
+This project includes a class for fitting and decoding HMMs (currently only
+discrete emission spaces are supported; extension to GMM is tentatively planned). <br>
+The code is tested on a toy example from Wikipedia, as well as real-life example
+using gas sensor data. <br>
+The jupyter notebook contains the entirety of the code (which should be broken 
+out into a proper library in the future), and includes significant exploration
+and pre-processing of the MOX gas sensor data. 
 
 ## Datasets <br>
 1. MOX gas sensor data, UCI, retrieved from https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring#
